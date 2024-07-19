@@ -1,4 +1,4 @@
-pyrogram
+git+https://github.com/Sumit0045/pyrogram
 pyromod==1.5
 tgcrypto
 pymongo[srv]==3.12.3
